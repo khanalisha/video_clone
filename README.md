@@ -8,6 +8,10 @@ This web application is a simplified version of a "Video Clone" where users can 
 -HTML5 Video
 -Tailwind CSS
 
+
+### `Project CheckOut`
+[CheckOut Live](https://frontend-videoclone.vercel.app/)
+
 ### `Features`
 
 - fetching of videos from the provided API

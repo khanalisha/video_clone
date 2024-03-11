@@ -10,7 +10,7 @@ This web application is a simplified version of a "Video Clone" where users can 
 
 
 ### `Project CheckOut`
-[CheckOut Live](https://frontend-videoclone.vercel.app/)
+ [CheckOut Live](https://frontend-videoclone.vercel.app/)
 
 ### `Features`
 

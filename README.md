@@ -33,3 +33,5 @@ This web application is a simplified version of a "Video Clone" where users can 
 
 ### `npm start`
 <!--  -->
+
+- if you appreciate this project, show your support with a ⭐!
